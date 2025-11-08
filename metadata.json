@@ -1,0 +1,5 @@
+{
+  "name": "TSPL Timesheet Portal",
+  "description": "A comprehensive Timesheet Management System built with React and Tailwind CSS, enabling employees to submit entries, managers to approve them, and administrators to monitor analytics with AI-powered summaries from Gemini.",
+  "requestFramePermissions": []
+}
